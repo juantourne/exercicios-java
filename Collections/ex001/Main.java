@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-
-
 void main() {
     var scanner = new Scanner(System.in);
 
